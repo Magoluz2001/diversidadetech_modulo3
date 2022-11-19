@@ -3,4 +3,4 @@
 
 Este repositório é referente ao projeto final do programa Diverisdade Tech. Foi criado com o propósito de armazenar o notebook onde foi feita análise exploratória dos dados do Ensino Superior, o dataset utilizado e os novos datasets tratados que foram gerados durante o projeto.
 
-Link do dataset: https://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/Indicadores_Fluxo_ES_2017_2021.zip
+Link para download do dataset original do governo: https://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/Indicadores_Fluxo_ES_2017_2021.zip
